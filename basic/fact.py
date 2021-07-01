@@ -16,4 +16,4 @@ def fact(n):
 
 # fact(-3)
 
-print(fact(-4))
+print(fact(4))
