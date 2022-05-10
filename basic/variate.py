@@ -9,7 +9,7 @@
 # 变量类型
 # 赋值
 a = b = c = 1
-print(a,b,c);
+print(a,b,c)
 
 a,b,c = 3,10.2,"henry-watson"
 print(a,b,c)
